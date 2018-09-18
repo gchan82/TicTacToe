@@ -1,0 +1,3 @@
+setup:
+npx create-react-apps tic-tac-toe3
+
